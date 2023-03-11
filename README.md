@@ -21,7 +21,7 @@ Select the listed specifications and attach centos iso.
 Boot the new VM from ISO, and mdify the installer kernel to use the kickstart from the webserver as shown :
 - Select the wanted kernel from boot menu, and press `tab`
 - Press `e`, and append the underlined part  
-![alt text]()
+![alt text](https://github.com/Mai265/Automatic-kickstart-installation/blob/main/MicrosoftTeams-image.png)
 - press `Enter` to complete installation process
 
 ** After the installation the machine will restart automatialy and prompt you to enter the user name and password. **
