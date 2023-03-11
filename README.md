@@ -22,7 +22,7 @@ Boot the new VM from ISO, and mdify the installer kernel to use the kickstart fr
 - Select the wanted kernel from boot menu, and press `tab`
 - Press `e`, and append the underlined part  
 
-![alt text]()
+![alt text](https://github.com/Mai265/Automatic-kickstart-installation/blob/main/InkedMicrosoftTeams-image%20(2).jpg)
 
 - press `Enter` to complete installation process
 
