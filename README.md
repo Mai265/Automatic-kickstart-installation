@@ -1,5 +1,5 @@
 # Automatic Kickstart Installation
-Steps to automate VM installation via webserver.
+Steps to automate VM installation via webserver using Kickstart.
 
 Machine specifications:
 - Memory 2048MB 
@@ -19,8 +19,12 @@ Select the listed specifications and attach centos iso.
 
 ## 4. Boot the new VM 
 Boot the new VM from ISO, and mdify the installer kernel to use the kickstart from the webserver as shown :
-- press `tab`
-- Then append the highlighted part
+- Select the wanted kernel from boot menu, and press `tab`
+- Press `e`, and append the underlined part  
+![alt text]()
 - press `Enter` to complete installation process
+
+** After the installation the machine will restart automatialy and prompt you to enter the user name and password. **
+![alt text]()
 
 
